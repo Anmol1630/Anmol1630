@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Data Scientist**, **Machine Learning & NLP Explorer**, and **Web Developer** who thrives on transforming complex data into actionable insights. With expertise in **ML**, **Deep Learning**, **NLP**, and full-stack development, I build innovative AI solutions to tackle real-world challenges. 
+I'm a passionate **Data Scientist**, **Machine Learning Engineer**  who thrives on transforming complex data into actionable insights. With expertise in **ML**, **Deep Learning**, **NLP**, and full-stack development, I build innovative AI solutions to tackle real-world challenges. 
 
 - 🌟 **Portfolio**: Explore my work at [anmol1630.github.io/anmolportfolio](https://anmol1630.github.io/anmolportfolio/)
 - 📚 **Galaxy Learning Hub**: Join my free tech tutorials at [anmol1630.github.io/galaxy-learning-hub](https://anmol1630.github.io/galaxy-learning-hub/)

@@ -18,7 +18,7 @@
 
 I'm a passionate **Data Scientist**, **Machine Learning Engineer**  who thrives on transforming complex data into actionable insights. With expertise in **ML**, **Deep Learning**, **NLP**, and full-stack development, I build innovative AI solutions to tackle real-world challenges. 
 
-- 🌟 **Portfolio**: Explore my work at [anmol1630.github.io/anmolportfolio](anmol.shop)
+- 🌟 **Portfolio**: Explore my work at (anmol.shop)
 - 📚 **Galaxy Learning Hub**: Join my free tech tutorials at [anmol1630.github.io/galaxy-learning-hub](https://anmol1630.github.io/galaxy-learning-hub/)
 - 📝 I share insights on Data Science, ML, and more on [Medium](https://medium.com/@anmolprashar016)
 - 📫 Reach me at: **anmolprasharr@gmail.com**

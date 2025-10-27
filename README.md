@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="https://twitter.com/axnmolsharma"><img src="https://img.shields.io/twitter/follow/axnmolsharma?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/anmol-prashar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@anmolprashar016"><img src="https://img.shields.io/badge/Medium-Writing-000000?style=for-the-badge&logo=medium" alt="Medium" /></a>
+  <a href="https://www.linkedin.com/in/anmol-p-b24b22302/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 ---

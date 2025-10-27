@@ -15,14 +15,13 @@
 ---
 
 ## **Who I Am**
-**ML Engineer | Gen AI Builder | AI Automation Architect**
+**ML Engineer | Gen AI Builder | AI Automation using n8n**
 
-I **design, deploy, and automate** intelligent systems using **LLMs, LangChain, n8n, and cloud-native tools**. I turn ideas into **production AI workflows** — not just notebooks.
+I **design, deploy, and automate** intelligent systems using **LLMs, LangChain, n8n**. I turn ideas into **production AI workflows** — not just notebooks.
 
 > **From prompt to pipeline — I build AI that works.**
 
 - **Email**: [anmolprasharr@gmail.com](mailto:anmolprasharr@gmail.com)
-- **Portfolio**: [anmolprashar.live](https://anmolprashar.live) *(coming soon)*
 
 ---
 
@@ -32,10 +31,10 @@ I **design, deploy, and automate** intelligent systems using **LLMs, LangChain, 
 |-------|-------------|
 | **Gen AI Apps** | LangChain, LlamaIndex, Streamlit, Gradio |
 | **AI Automation** | **n8n**, Make.com, Zapier, Airflow |
-| **LLM Pipelines** | OpenAI, Claude, Gemini, Local LLMs (Ollama) |
+| **LLM** | OpenAI, Claude, Gemini, Local LLMs (Ollama) |
 | **RAG Systems** | Pinecone, Weaviate, ChromaDB |
 | **MLOps** | Docker, GitHub Actions, Vercel, Render, FastAPI |
-| **Frontend** | React, Tailwind, Streamlit |
+| **Frontend** | React, Tailwind, Streamlit , NextJS |
 
 ---
 
@@ -64,18 +63,6 @@ I **design, deploy, and automate** intelligent systems using **LLMs, LangChain, 
 
 ---
 
-## **Featured Projects**
-
-| Project | Description | Tech |
-|-------|------------|------|
-| **Resume Parser Pro** | AI agent that extracts structured data from resumes using LLM + RAG | `LangChain`, `Streamlit`, `OpenAI`, `n8n` |
-| **AI Customer Support Bot** | Automated ticketing + reply generation with memory | `n8n`, `Claude`, `Pinecone`, `Slack` |
-| **Invoice AI Automation** | Extract → Validate → Store → Notify (fully automated) | `n8n`, `Gemini`, `Google Drive`, `Notion` |
-| **Local LLM Dashboard** | Run & chat with any model locally | `Ollama`, `Gradio`, `Docker` |
-
-> *All projects are **open-source, deployed, and production-ready**.*
-
----
 
 ## **Achievements & Leadership**
 
